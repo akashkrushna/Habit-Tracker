@@ -2,7 +2,7 @@
 
 - habit-tracker-19.netlify.app
 
-🦉 Main information
+# Main information
 A Habit Tracker is for tracking all user created habits. Habit Tracker App made using React. In this app we can show, add and update the Habits. We Can change habit status to DONE, NOT DONE, UNMARKED.
 
 ## Getting Started with Create React App
